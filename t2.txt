@@ -1,2 +1,6 @@
 Find accounts by the technologies they use
 Wappalyzer helps sales and GTM teams build technographic prospect lists, enrich CRM records, and monitor competitor installs with data from millions of websites.
+
+============================================================================================
+===========================================
+=..................................................
